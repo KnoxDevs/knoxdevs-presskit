@@ -81,10 +81,10 @@
      inkscape:current-layer="g6250"
      showgrid="false"
      units="in"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1024"
+     inkscape:window-height="745"
+     inkscape:window-x="1917"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -6751,6 +6751,18 @@ D//Z
            x="582.20251"
            id="tspan6248"
            sodipodi:role="line">Dev Beers</tspan></text>
+      <path
+         style="opacity:1;fill:#aa87de;fill-opacity:1;stroke:#cccccc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path7201"
+         sodipodi:type="arc"
+         sodipodi:cx="-105.22337"
+         sodipodi:cy="672.74713"
+         sodipodi:rx="50.507626"
+         sodipodi:ry="50.507626"
+         sodipodi:start="6.2802532"
+         sodipodi:end="5.8831209"
+         sodipodi:open="true"
+         d="m -54.715965,672.59904 a 50.507626,50.507626 0 0 1 -45.353745,50.3921 50.507626,50.507626 0 0 1 -54.63941,-40.13554 50.507626,50.507626 0 0 1 34.52203,-58.34857 50.507626,50.507626 0 0 1 61.483054,28.56851" />
     </g>
     <text
        xml:space="preserve"
